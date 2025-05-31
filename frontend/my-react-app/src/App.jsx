@@ -9,7 +9,7 @@ import Authentication from './pages/Authentication'
 import { AuthProvider } from './contexts/AuthContext'
 import VideoMeet from './pages/VideoMeet'
 import Home from './pages/Home'
-import History from './pages/history'
+import History from './pages/History'
 
 function App() 
 {
