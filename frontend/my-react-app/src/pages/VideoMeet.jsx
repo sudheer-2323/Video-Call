@@ -11,12 +11,13 @@ import MicOffIcon from '@mui/icons-material/MicOff'
 import ScreenShareIcon from '@mui/icons-material/ScreenShare'
 import StopScreenShareIcon from '@mui/icons-material/StopScreenShare'
 import ChatIcon from '@mui/icons-material/Chat'
+import server from "../environment";
 
 
 
 import styles from "../styles/videoMeet.module.css"
 
-const server_url="http://localhost:8080";
+const server_url=server;
 
 var connections={};
 
