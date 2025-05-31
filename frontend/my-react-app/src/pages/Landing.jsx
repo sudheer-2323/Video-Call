@@ -8,7 +8,7 @@ export default function Landing(){
     <div className="landingPageContainer">
         <nav>
         <div className="navHeader">
-            <h2>Apna video call</h2>
+            <h2>Aero video call</h2>
         </div>
         <div className="navlist">
             <p onClick={()=>{
