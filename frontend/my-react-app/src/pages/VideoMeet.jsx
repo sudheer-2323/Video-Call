@@ -15,7 +15,7 @@ import server from "../environment";
 
 
 
-import styles from "../styles/videoMeet.module.css"
+import styles from "../styles/VideoMeet.module.css"
 
 const server_url=server;
 
